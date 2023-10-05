@@ -45,6 +45,7 @@ We appreciate suggestions for making the library better. To suggest an enhanceme
 
 1. Check the issue tracker to ensure your suggestion hasn't been made already. If not, open a new issue.
 2. Clearly describe the enhancement and explain its value, providing examples or use cases if possible.
+3. Provide code snippets or architectural ideas.
 
 ## Code Contribution
 
